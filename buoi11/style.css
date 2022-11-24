@@ -1,0 +1,20 @@
+p{
+    background-color: blue;
+    color: beige;
+    font-weight: bold;
+    width: 25%;
+    /* display: inline; */
+    float: left;
+}
+img {
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+h1 {
+    margin: auto;
+    background-color: crimson;
+    color: white;
+    width: 50%;
+    text-align: center;
+}
